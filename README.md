@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deyemiobaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sodiq
+- 👀 I’m interested in software development and data science
+- 🌱 I’m currently learning full stack software development
+- 💞️ I’m looking to collaborate on web related projects
+- 📫 How to reach me: @deyemiobaa on twitter and Sodiq Aderibigbe on LinkedIn
 
 <!---
 deyemiobaa/deyemiobaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
