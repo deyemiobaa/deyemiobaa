@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning full-stack software development at [Microverse](https://www.microverse.org/?grsf=agshns)
 - 💞️ I’m looking to collaborate on web related projects
-- 📫 How to reach me: @deyemiobaa on twitter and Sodiq Aderibigbe on LinkedIn
+- 📫 How to reach me: [@deyemiobaa](https://twitter.com/deyemiobaa) on twitter and [Sodiq Aderibigbe](https://www.linkedin.com/in/sodiqa/) on LinkedIn
 
 <!---
 deyemiobaa/deyemiobaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
