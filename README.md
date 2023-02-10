@@ -5,7 +5,7 @@
 
 Projects I've worked on/ beign a part of:
 
-- [Turn App Events](https://www.turnapp.events/)
+<!-- - [Turn App Events](https://www.turnapp.events/) -->
 - [Tropical Weather](https://tropicalweather.app)
 - [PowerLabs Tech](http://powerlabstech.com/)
 - [Wabi Sabi](http://wabi-sabi.vercel.app/)
